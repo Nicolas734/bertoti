@@ -23,7 +23,6 @@ o site da um retorno dos erros ao usuario para que de tal forma o usuario possa 
 
 ## Negativos :x:
 
-<p>Descrição: <br>.</p>
 3.1 – Legível
 
 site erra no quesito de legivel por possui textos muito agrupados e com fontes pequenas para o usuario dificultando sua leitura.
@@ -34,3 +33,11 @@ site erra no quesito de legivel por possui textos muito agrupados e com fontes p
 o uso de cores que não contrastam, e espaçamentos grandes entre as informações tornam a visualização desagradavel.
 
 <img alt="img" height="450em" src="https://i.imgur.com/xxnXwwy.png">
+
+
+1.4.8 – Apresentação Visual
+
+possui uma apresentação visual contendo muitas falhas onde caixas de texto possuem um espaçamento muito grande, imagem pequena e textos com fontes pequenas dificultando a visualização do usuario
+
+<img alt="img" height="450em" src="https://i.imgur.com/m3BOXZx.png">
+
