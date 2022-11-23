@@ -24,5 +24,13 @@ o site da um retorno dos erros ao usuario para que de tal forma o usuario possa 
 ## Negativos :x:
 
 <p>Descrição: <br>.</p>
+3.1 – Legível
 
-<img alt="img" height="450em" src="https://i.imgur.com/0wYQnpn.png">
+site erra no quesito de legivel por possui textos muito agrupados e com fontes pequenas para o usuario dificultando sua leitura.
+<img alt="img" height="450em" src="https://i.imgur.com/KYrBL1l.png">
+
+1.4 – Distinguíveis
+
+o uso de cores que não contrastam, e espaçamentos grandes entre as informações tornam a visualização desagradavel.
+
+<img alt="img" height="450em" src="https://i.imgur.com/xxnXwwy.png">
