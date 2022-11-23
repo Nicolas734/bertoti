@@ -28,9 +28,9 @@ o site da um retorno dos erros ao usuario para que de tal forma o usuario possa 
 site erra no quesito de legivel por possui textos muito agrupados e com fontes pequenas para o usuario dificultando sua leitura.
 <img alt="img" height="450em" src="https://i.imgur.com/KYrBL1l.png">
 
-1.4 – Distinguíveis
+1.4.1 – Uso de cores
 
-o uso de cores que não contrastam, e espaçamentos grandes entre as informações tornam a visualização desagradavel.
+devido as cores escolhidas para serem utilizadas, acaba por não haver o contraste, e com isso alguns usuarios podem ter dificuldades na hora de visualizar as informações.
 
 <img alt="img" height="450em" src="https://i.imgur.com/xxnXwwy.png">
 
