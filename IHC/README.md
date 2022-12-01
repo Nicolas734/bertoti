@@ -46,7 +46,7 @@
         <li>o site apresenta linguagem de sinais tornando o acessivel</li>
     </ul>
     <div align="center">
-        <img alt="acessibilidade" align=center height="450em" src="img/poluicao-visual.png">
+        <img alt="acessibilidade" align=center height="450em" src="img/acessibilidade.png">
     </div>
 </details>
 
@@ -97,6 +97,6 @@
         <li>o site possui uma apresentação visual prejudicada por conta de muitas informações estarem sendo dispostas de uma forma que deixa muito poluido a visualização.</li>
     </ul>
     <div align="center">
-        <img alt="poluicao visual" height="500em" src="img/acessibilidade.png">
+        <img alt="poluicao visual" height="500em" src="img/poluicao-visual.png">
     </div>
 </details>
