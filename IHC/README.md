@@ -11,7 +11,7 @@
         <li>As funcionalidades basicas do github são de facil visualização e acesso, contendo as infomações basicas logo na home e atendendo aos quesitos de navegabilidade.</li>
     </ul>
     <div align="center">
-        <img alt="GitHub" align=center height="500em" src="https://i.imgur.com/jfN79vI.png">
+        <img alt="GitHub" align=center height="450em" src="https://i.imgur.com/jfN79vI.png">
     </div>
 </details>
 
@@ -23,7 +23,7 @@
         <li>é exibido uma caixa de confirmação ao usuario ao tentar excluir um item, previnindo assim o usuario de excluir algo permanentemente por acaso.</li>
     </ul>
     <div align="center">
-        <img alt="GitHub" align=center height="500em" src="https://i.imgur.com/0wYQnpn.png">
+        <img alt="GitHub" align=center height="450em" src="https://i.imgur.com/0wYQnpn.png">
     </div>
 </details>
 
@@ -35,13 +35,35 @@
         <li>o site da um retorno dos erros ao usuario para que de tal forma o usuario possa corrigir.</li>
     </ul>
     <div align="center">
-        <img alt="GitHub" align=center height="500em" src="https://i.imgur.com/7ynpbFA.png">
+        <img alt="GitHub" align=center height="450em" src="https://i.imgur.com/7ynpbFA.png">
+    </div>
+</details>
+
+<details>
+    <summary><b>1.2.6 Linguagem de sinais</b></summary>
+    <br>
+    <ul>
+        <li>o site apresenta linguagem de sinais tornando o acessivel</li>
+    </ul>
+    <div align="center">
+        <img alt="acessibilidade" align=center height="450em" src="">
     </div>
 </details>
 
 
-
 ## Negativos :x:
+
+
+<details>
+    <summary><b>1.4.8 Apresentação Visual</b></summary>
+    <br>
+    <ul>
+        <li>possui uma apresentação visual contendo muitas falhas onde caixas de texto possuem um espaçamento muito grande, imagem pequena e textos com fontes pequenas dificultando a visualização do usuario.</li>
+    </ul>
+    <div align="center">
+        <img alt="img" height="450em" src="https://i.imgur.com/m3BOXZx.png">
+    </div>
+</details>
 
 
 <details>
@@ -72,9 +94,9 @@
     <summary><b>1.4.8 Apresentação Visual</b></summary>
     <br>
     <ul>
-        <li>possui uma apresentação visual contendo muitas falhas onde caixas de texto possuem um espaçamento muito grande, imagem pequena e textos com fontes pequenas dificultando a visualização do usuario.</li>
+        <li>o site possui uma apresentação visual prejudicada por conta de muitas informações estarem sendo dispostas de uma forma que deixa muito poluido a visualização.</li>
     </ul>
     <div align="center">
-        <img alt="img" height="450em" src="https://i.imgur.com/m3BOXZx.png">
+        <img alt="poluicao visual" height="450em" src="">
     </div>
 </details>
